@@ -25,3 +25,6 @@
 [data-id='30+20'] {
 	display: none !important;
 }
+[data-id='custom'] {
+	display: none !important;
+}
